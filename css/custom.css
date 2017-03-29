@@ -1,0 +1,9 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+
+.bg-primary-img {
+    background-image: url('../img/general/pd.gif');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-color: black;
+}
